@@ -1,2 +1,2 @@
 # laravel-rest-api
-## Project diectory in Master Branch
+## Project diectory available in Master Branch
